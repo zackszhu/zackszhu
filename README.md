@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 
 I'm **Chaojie Zhu** from Shanghai, China. I'm curious and passionate about entertainment technologies, such as AR/VR and game AI.
 
@@ -19,7 +19,7 @@ I'm currently located in Sunnyvale, CA, and working as an AR/VR Software Enginee
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opengl)
 
-### Projects
+### 💻 Projects
 
 - [Isetta Engine](www.isetta.io): A game engine which is built for demystifying the game engine development process. Written in C++.
 
