@@ -7,6 +7,7 @@ I'm currently located in Sunnyvale, CA, and working as an AR/VR Software Enginee
 ### ⚡ Technologies
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=Rust)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=Swift)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
