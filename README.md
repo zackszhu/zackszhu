@@ -1,8 +1,8 @@
 ## 👋 Hi there 
 
-I'm **Chaojie Zhu** from Shanghai, China. I'm curious and passionate about entertainment technologies, such as AR/VR and game AI.
+I’m a software engineer at Apple, worked on RealityKit for iOS and visionOS and now working on a special project. I contributed to bringing up the first generation of Apple Vision Pro.
 
-I'm currently located in Sunnyvale, CA, and working as an AR/VR Software Engineer @ Apple. Before Apple, I graduated from CMU with a Master of Entertainment Technology degree and interned at Uber Advanced Technology Group, working with self-driving vehicles.
+I’m passionate about building technologies that empower human behavior, including simulation, AI, and robotics. With a background in game engines, I love crafting interactive and immersive experiences that bridge the digital and physical worlds. I’m always exploring new ways to push the boundaries of innovation and human-computer interaction.
 
 ### ⚡ Technologies
 
